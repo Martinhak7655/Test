@@ -10,3 +10,6 @@ else:
 
 x = "Hello World"
 print(x)
+
+if len(x) >= 10:
+    print("Error name")
